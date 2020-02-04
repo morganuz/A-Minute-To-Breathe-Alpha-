@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Title.unity
+    guid: 2710f5c9188435b4ba72a8b2b23187bd
+  - enabled: 1
+    path: Assets/Scenes/Planeta1.unity
+    guid: 2119acabdd02fa94e8a9eedbece4f638
+  - enabled: 1
+    path: Assets/Scenes/Imagen1.unity
+    guid: a2381f01ca039c14ab798582d6bd8bf1
+  - enabled: 1
+    path: Assets/Scenes/Planeta2.unity
+    guid: c70a30c4c20a2e24a957f058d6fbedc8
+  - enabled: 1
+    path: Assets/Scenes/Image2.unity
+    guid: 2ea652e2b79dbdc4580d6ecc35cbbb65
+  - enabled: 1
+    path: Assets/Scenes/Planeta3.unity
+    guid: 75a5aea19d2077f4185bf39a05a75fac
+  - enabled: 1
+    path: Assets/Scenes/Planeta4.unity
+    guid: 1d462b1c50c38de469a1745f024d5245
+  - enabled: 1
+    path: "Assets/Scenes/Ep\xEClogo.unity"
+    guid: dc74f7a3b5d853c42881f3e400a02703
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 04b85842cc876ae4da67d21cb9174aa6
+  m_configObjects: {}
